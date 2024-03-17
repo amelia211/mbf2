@@ -16,4 +16,4 @@ $ git clone https://github.com/amelia211/mbf2/
 
 $ cd mbf2
 
-$ python peli.py
+$ python ngocok.py
